@@ -1,0 +1,6 @@
+# Ellenőrzött felhős környezet: Python 3.12; a meglévő Mac-környezetet nem kell frissíteni.
+streamlit==1.50.0
+pandas==2.2.3
+plotly==6.9.0
+requests==2.34.2
+python-dotenv==1.2.4

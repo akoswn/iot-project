@@ -1,0 +1,15 @@
+.streamlit/secrets.toml
+*.env
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*-env/
+*.csv
+meresek/
+eredmenyek/
+*.zip
+*.log
+.DS_Store
